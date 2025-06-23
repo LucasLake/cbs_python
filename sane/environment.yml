@@ -1,6 +1,4 @@
 name: sane
-channels:
-  - conda-forge
 
 dependencies:
   - python=3.12
@@ -94,3 +92,5 @@ dependencies:
   - pip
   - pip:
       - metasyn  # synthetic data
+      - conda-forge
+
