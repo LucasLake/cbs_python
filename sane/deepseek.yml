@@ -43,7 +43,6 @@ dependencies:
   - bokeh
   - altair
   - panel
-  - networks
   - igraph
   - python-kaleido
 
